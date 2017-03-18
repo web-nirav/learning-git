@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 Hello Nirav
-=======
-Hello World
-Good Morning
->>>>>>> change1
+Abuot Us
